@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: some title
+  description:
+  short_title: some title2
+  sub_title: some title3
+  name: some name
+  keywords: []
+  authors: []
+  github: https://github.com/executablebooks/mystmd-quickstart
+  bibliography: []
+site:
+  template: book-theme
+  title: Fancy Title 🎩
+  # logo:
+  logo: ./images/citations.png
+  # nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
